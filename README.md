@@ -179,7 +179,7 @@ create a new GitHub repository with name you want.
 
 copy the repository url, now go back to instance terminal and change the remote repository to your new repository
 
-   git remote set-url origin https://github.com/amitgitz/jenkins-Deployment-projects.git
+   git remote set-url origin https://github.com/deepanshurohilla15/jenkins-Deployment-projects.git
    
 Add ll files to staged
 ```
@@ -216,6 +216,3 @@ Now in build step. Add build step as eecute shell and write the following comman
 save it and click on build now to run the job.
 
 Great your web app is running and Our Project is Completed with that.
-
-I have wirrten whole blog explain every bit which can be accessed at 
-https://www.linkedin.com/pulse/django-app-deployment-ec2-instance-using-docker-amit-choudhary/?published=t&trackingId=uIaeWyCfRsiqjZNv3QnGaQ%3D%3D
